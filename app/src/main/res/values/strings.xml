@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Namaste Corona</string>
+    <string name="app_name">AI Corona</string>
     <string name="tab_text_1">Confirmed</string>
     <string name="tab_text_2">Deaths</string>
     <string name="tab_text_3">Recovered</string>
